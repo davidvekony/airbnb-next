@@ -1395,7 +1395,7 @@
   dependencies:
     "yallist" "^4.0.0"
 
-"mapbox-gl@*":
+"mapbox-gl@*", "mapbox-gl@^2.7.1":
   "integrity" "sha512-7nR+GPWn7Dy60i5mqH/V94Rp+GbSETFEDaDD49RgWYMGywoSQsTGzMDm+sJsegXv3zwSiTuyQtBOj6BwzIyG4w=="
   "resolved" "https://registry.npmjs.org/mapbox-gl/-/mapbox-gl-2.7.1.tgz"
   "version" "2.7.1"
